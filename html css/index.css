@@ -19,10 +19,13 @@ img {
 
 .description{
 	margin-left: 15px;
+	font-family: 'Black Ops One', cursive;
 }
 
 h2{
 	margin-top: 10px;
+	font-family: 'Black Ops One', cursive;
+	font-size: 50px;
 }
 
 .jumbotron{
@@ -36,8 +39,19 @@ h2{
 
 nav{
 	font-size: 20px;
+	font-family: 'Black Ops One', cursive;
 }
 
 .navbar-brand{
-	font-size: 30px;
+	font-size: 35px;
+	margin-top: 0px;
 }
+
+#brand{
+	color: white;
+}
+
+li{
+	font-size: 28px;
+}
+
